@@ -1,0 +1,2 @@
+# myVim
+configuration vim perso
